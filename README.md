@@ -1,3 +1,4 @@
 # git-and-github
-I used this repo for learning and practicing git and github
+I used this repo for learning and practicing git and github.
+<br>
 Author-Soumya Baranwal
